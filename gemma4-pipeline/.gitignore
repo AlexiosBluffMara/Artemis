@@ -1,0 +1,19 @@
+# Model artifacts
+*.gguf
+*.bin
+*.safetensors
+/outputs/
+/merged/
+/facebook-export/
+
+# Python
+__pycache__/
+*.egg-info/
+.env
+venv/
+
+# Data
+*.jsonl
+
+# macOS
+.DS_Store
